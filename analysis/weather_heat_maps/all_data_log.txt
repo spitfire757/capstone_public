@@ -1,0 +1,886 @@
+nohup: ignoring input
+Coordinates 24.428821563720703°N -124.96263122558594°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -125.0)
+Coordinates 24.428821563720703°N -123.617919921875°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -123.6496411627907)
+Coordinates 24.428821563720703°N -122.27320861816406°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -122.2992823255814)
+Coordinates 24.428821563720703°N -120.92848205566406°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -120.94892348837209)
+Coordinates 24.428821563720703°N -119.58377075195312°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -119.59856465116279)
+Coordinates 24.428821563720703°N -118.23904418945312°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -118.24820581395349)
+Coordinates 24.428821563720703°N -116.89433288574219°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -116.89784697674419)
+Coordinates 24.428821563720703°N -115.54962158203125°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -115.54748813953488)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.428821563720703°N -112.86018371582031°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.396308, -112.84677046511628)
+Coordinates 24.428821563720703°N -111.51547241210938°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (24.396308, -111.49641162790698)
+Coordinates 24.428821563720703°N -110.17074584960938°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (24.396308, -110.14605279069767)
+Coordinates 24.428821563720703°N -108.82603454589844°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (24.396308, -108.79569395348837)
+Coordinates 24.428821563720703°N -107.48130798339844°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (24.396308, -107.44533511627907)
+Coordinates 24.428821563720703°N -106.23265075683594°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.396308, -106.09497627906977)
+Coordinates 24.428821563720703°N -104.69583129882812°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.396308, -104.74461744186047)
+Coordinates 24.428821563720703°N -103.35110473632812°E
+Timezone: America/Mexico_City, Abbreviation: CST
+Data saved for 123 at (24.396308, -103.39425860465116)
+Coordinates 24.428821563720703°N -102.10244750976562°E
+Timezone: America/Mexico_City, Abbreviation: CST
+Data saved for 123 at (24.396308, -102.04389976744186)
+Coordinates 24.428821563720703°N -100.66168212890625°E
+Timezone: America/Mexico_City, Abbreviation: CST
+Data saved for 123 at (24.396308, -100.69354093023256)
+Coordinates 24.428821563720703°N -99.31695556640625°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.396308, -99.34318209302324)
+Coordinates 24.428821563720703°N -97.97222900390625°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.396308, -97.99282325581395)
+Coordinates 24.428821563720703°N -96.62753295898438°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -96.64246441860465)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.428821563720703°N -93.93807983398438°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -93.94174674418605)
+Coordinates 24.428821563720703°N -92.5933837890625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -92.59138790697673)
+Coordinates 24.428821563720703°N -91.2486572265625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -91.24102906976744)
+Coordinates 24.428821563720703°N -89.9039306640625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -89.89067023255814)
+Coordinates 24.428821563720703°N -88.55923461914062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -88.54031139534882)
+Coordinates 24.428821563720703°N -87.21450805664062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -87.18995255813954)
+Coordinates 24.428821563720703°N -85.86978149414062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -85.83959372093022)
+Coordinates 24.428821563720703°N -84.52505493164062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.396308, -84.48923488372093)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.428821563720703°N -81.83563232421875°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (24.396308, -81.78851720930231)
+Coordinates 24.428821563720703°N -80.39486694335938°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.396308, -80.43815837209303)
+Coordinates 24.428821563720703°N -79.05014038085938°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.396308, -79.08779953488371)
+Coordinates 24.428821563720703°N -77.7054443359375°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.396308, -77.73744069767442)
+Coordinates 24.428821563720703°N -76.3607177734375°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.396308, -76.38708186046512)
+Coordinates 24.428821563720703°N -75.0159912109375°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.396308, -75.0367230232558)
+Coordinates 24.428821563720703°N -73.67129516601562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.396308, -73.6863641860465)
+Coordinates 24.428821563720703°N -72.32656860351562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.396308, -72.3360053488372)
+Coordinates 24.428821563720703°N -70.98184204101562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.396308, -70.98564651162789)
+Coordinates 24.428821563720703°N -69.63711547851562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.396308, -69.6352876744186)
+Coordinates 24.428821563720703°N -68.29241943359375°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.396308, -68.28492883720929)
+Coordinates 24.428821563720703°N -66.94769287109375°E
+Timezone: Etc/GMT+4, Abbreviation: -04
+Data saved for 123 at (24.396308, -66.93457)
+Coordinates 24.9912109375°N -124.97308349609375°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -125.0)
+Coordinates 24.9912109375°N -123.61679077148438°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -123.6496411627907)
+Coordinates 24.9912109375°N -122.260498046875°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -122.2992823255814)
+Coordinates 24.9912109375°N -120.90419006347656°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -120.94892348837209)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.9912109375°N -118.28848266601562°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -118.24820581395349)
+Coordinates 24.9912109375°N -116.93218994140625°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -116.89784697674419)
+Coordinates 24.9912109375°N -115.57588195800781°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (24.977425441860465, -115.54748813953488)
+Coordinates 24.9912109375°N -114.21958923339844°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -114.19712930232558)
+Coordinates 24.9912109375°N -112.86329650878906°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (24.977425441860465, -112.84677046511628)
+Coordinates 24.9912109375°N -111.50698852539062°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (24.977425441860465, -111.49641162790698)
+Coordinates 24.9912109375°N -110.15069580078125°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (24.977425441860465, -110.14605279069767)
+Coordinates 24.9912109375°N -108.79440307617188°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (24.977425441860465, -108.79569395348837)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.9912109375°N -106.08180236816406°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -106.09497627906977)
+Coordinates 24.9912109375°N -104.72550964355469°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -104.74461744186047)
+Coordinates 24.9912109375°N -103.46609497070312°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -103.39425860465116)
+Coordinates 24.9912109375°N -101.91604614257812°E
+Timezone: America/Mexico_City, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -102.04389976744186)
+Coordinates 24.9912109375°N -100.6566162109375°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -100.69354093023256)
+Coordinates 24.9912109375°N -99.30032348632812°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -99.34318209302324)
+Coordinates 24.9912109375°N -98.0408935546875°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (24.977425441860465, -97.99282325581395)
+Coordinates 24.9912109375°N -96.68460083007812°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -96.64246441860465)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.9912109375°N -93.97201538085938°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -93.94174674418605)
+Coordinates 24.9912109375°N -92.61572265625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -92.59138790697673)
+Coordinates 24.9912109375°N -91.25942993164062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -91.24102906976744)
+Coordinates 24.9912109375°N -89.90310668945312°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -89.89067023255814)
+Coordinates 24.9912109375°N -88.54681396484375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -88.54031139534882)
+Coordinates 24.9912109375°N -87.19052124023438°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -87.18995255813954)
+Coordinates 24.9912109375°N -85.834228515625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -85.83959372093022)
+Coordinates 24.9912109375°N -84.47793579101562°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -84.48923488372093)
+Coordinates 24.9912109375°N -83.12164306640625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (24.977425441860465, -83.13887604651163)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 24.9912109375°N -80.40902709960938°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (24.977425441860465, -80.43815837209303)
+Coordinates 24.9912109375°N -79.052734375°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.977425441860465, -79.08779953488371)
+Coordinates 24.9912109375°N -77.69644165039062°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.977425441860465, -77.73744069767442)
+Coordinates 24.9912109375°N -76.34014892578125°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (24.977425441860465, -76.38708186046512)
+API request error: {'error': True, 'reason': 'Hourly API request limit exceeded. Please try again in the next hour.'}
+Hourly rate limit exceeded, waiting for the next hour to retry.
+Waiting for 2992.62 seconds.
+API request error: {'reason': 'Hourly API request limit exceeded. Please try again in the next hour.', 'error': True}
+Hourly rate limit exceeded, waiting for the next hour to retry.
+Waiting for 3599.53 seconds.
+Coordinates 24.9912109375°N -72.36813354492188°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.977425441860465, -72.3360053488372)
+Coordinates 24.9912109375°N -71.0118408203125°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.977425441860465, -70.98564651162789)
+Coordinates 24.9912109375°N -69.65554809570312°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.977425441860465, -69.6352876744186)
+Coordinates 24.9912109375°N -68.29925537109375°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (24.977425441860465, -68.28492883720929)
+Coordinates 24.9912109375°N -66.94293212890625°E
+Timezone: Etc/GMT+4, Abbreviation: -04
+Data saved for 123 at (24.977425441860465, -66.93457)
+Coordinates 25.55360221862793°N -124.98371887207031°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -125.0)
+Coordinates 25.55360221862793°N -123.61563110351562°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -123.6496411627907)
+Coordinates 25.55360221862793°N -122.34527587890625°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -122.2992823255814)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 25.55360221862793°N -119.60911560058594°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -119.59856465116279)
+Coordinates 25.55360221862793°N -118.24104309082031°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -118.24820581395349)
+Coordinates 25.55360221862793°N -116.87295532226562°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -116.89784697674419)
+Coordinates 25.55360221862793°N -115.5048828125°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -115.54748813953488)
+Coordinates 25.55360221862793°N -114.23452758789062°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -114.19712930232558)
+Coordinates 25.55360221862793°N -112.866455078125°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (25.558542883720932, -112.84677046511628)
+Coordinates 25.55360221862793°N -111.40065002441406°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (25.558542883720932, -111.49641162790698)
+Coordinates 25.55360221862793°N -110.13029479980469°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (25.558542883720932, -110.14605279069767)
+Coordinates 25.55360221862793°N -108.76220703125°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (25.558542883720932, -108.79569395348837)
+Coordinates 25.55360221862793°N -107.49185180664062°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (25.558542883720932, -107.44533511627907)
+Coordinates 25.55360221862793°N -106.123779296875°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (25.558542883720932, -106.09497627906977)
+Coordinates 25.55360221862793°N -104.65797424316406°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (25.558542883720932, -104.74461744186047)
+Coordinates 25.55360221862793°N -103.38763427734375°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (25.558542883720932, -103.39425860465116)
+Coordinates 25.55360221862793°N -102.01953125°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (25.558542883720932, -102.04389976744186)
+Coordinates 25.55360221862793°N -100.74917602539062°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (25.558542883720932, -100.69354093023256)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 25.55360221862793°N -98.01303100585938°E
+Timezone: America/Matamoros, Abbreviation: CST
+Data saved for 123 at (25.558542883720932, -97.99282325581395)
+Coordinates 25.55360221862793°N -96.64495849609375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -96.64246441860465)
+Coordinates 25.55360221862793°N -95.27688598632812°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -95.29210558139535)
+Coordinates 25.55360221862793°N -93.90878295898438°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -93.94174674418605)
+Coordinates 25.55360221862793°N -92.638427734375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -92.59138790697673)
+Coordinates 25.55360221862793°N -91.27035522460938°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -91.24102906976744)
+Coordinates 25.55360221862793°N -89.90228271484375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -89.89067023255814)
+Coordinates 25.55360221862793°N -88.53421020507812°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -88.54031139534882)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 25.55360221862793°N -85.79803466796875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -85.83959372093022)
+Coordinates 25.55360221862793°N -84.52767944335938°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -84.48923488372093)
+Coordinates 25.55360221862793°N -83.15960693359375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (25.558542883720932, -83.13887604651163)
+Coordinates 25.55360221862793°N -81.79153442382812°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -81.78851720930231)
+Coordinates 25.55360221862793°N -80.4234619140625°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (25.558542883720932, -80.43815837209303)
+Coordinates 25.55360221862793°N -79.05535888671875°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (25.558542883720932, -79.08779953488371)
+Coordinates 25.55360221862793°N -77.78500366210938°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (25.558542883720932, -77.73744069767442)
+Coordinates 25.55360221862793°N -76.41693115234375°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (25.558542883720932, -76.38708186046512)
+Coordinates 25.55360221862793°N -75.04885864257812°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -75.0367230232558)
+Coordinates 25.55360221862793°N -73.6807861328125°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -73.6863641860465)
+Coordinates 25.55360221862793°N -72.31271362304688°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -72.3360053488372)
+Coordinates 25.55360221862793°N -70.94461059570312°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -70.98564651162789)
+Coordinates 25.55360221862793°N -69.67425537109375°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -69.6352876744186)
+Coordinates 25.55360221862793°N -68.30618286132812°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (25.558542883720932, -68.28492883720929)
+Coordinates 25.55360221862793°N -66.9381103515625°E
+Timezone: Etc/GMT+4, Abbreviation: -04
+Data saved for 123 at (25.558542883720932, -66.93457)
+Coordinates 26.115991592407227°N -124.99452209472656°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -125.0)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.115991592407227°N -122.33297729492188°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -122.2992823255814)
+Coordinates 26.115991592407227°N -120.95291137695312°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -120.94892348837209)
+Coordinates 26.115991592407227°N -119.57284545898438°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -119.59856465116279)
+Coordinates 26.115991592407227°N -118.29135131835938°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -118.24820581395349)
+Coordinates 26.115991592407227°N -116.91128540039062°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -116.89784697674419)
+Coordinates 26.115991592407227°N -115.53121948242188°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -115.54748813953488)
+Coordinates 26.115991592407227°N -114.15115356445312°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -114.19712930232558)
+Coordinates 26.115991592407227°N -112.86965942382812°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.139660325581396, -112.84677046511628)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.115991592407227°N -110.10952758789062°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (26.139660325581396, -110.14605279069767)
+Coordinates 26.115991592407227°N -108.82804870605469°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (26.139660325581396, -108.79569395348837)
+Coordinates 26.115991592407227°N -107.34939575195312°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (26.139660325581396, -107.44533511627907)
+Coordinates 26.115991592407227°N -105.96932983398438°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.139660325581396, -106.09497627906977)
+Coordinates 26.115991592407227°N -104.78642272949219°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.139660325581396, -104.74461744186047)
+Coordinates 26.115991592407227°N -103.4063720703125°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.139660325581396, -103.39425860465116)
+API request error: {'error': True, 'reason': 'Daily API request limit exceeded. Please try again tomorrow.'}
+Daily rate limit exceeded, waiting for the next day to retry.
+Waiting for 78750.34 seconds.
+API request error: {'error': True, 'reason': 'Daily API request limit exceeded. Please try again tomorrow.'}
+Daily rate limit exceeded, waiting for the next day to retry.
+Waiting for 86399.46 seconds.
+Coordinates 26.115991592407227°N -99.36474609375°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.139660325581396, -99.34318209302324)
+Coordinates 26.115991592407227°N -97.98468017578125°E
+Timezone: America/Chicago, Abbreviation: CST
+Data saved for 123 at (26.139660325581396, -97.99282325581395)
+Coordinates 26.115991592407227°N -96.6046142578125°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -96.64246441860465)
+Coordinates 26.115991592407227°N -95.3231201171875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -95.29210558139535)
+Coordinates 26.115991592407227°N -93.94305419921875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -93.94174674418605)
+Coordinates 26.115991592407227°N -92.56298828125°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -92.59138790697673)
+Coordinates 26.115991592407227°N -91.281494140625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -91.24102906976744)
+Coordinates 26.115991592407227°N -89.90142822265625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -89.89067023255814)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.115991592407227°N -87.14129638671875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -87.18995255813954)
+Coordinates 26.115991592407227°N -85.85980224609375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -85.83959372093022)
+Coordinates 26.115991592407227°N -84.479736328125°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -84.48923488372093)
+Coordinates 26.115991592407227°N -83.09967041015625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.139660325581396, -83.13887604651163)
+Coordinates 26.115991592407227°N -81.7196044921875°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (26.139660325581396, -81.78851720930231)
+Coordinates 26.115991592407227°N -80.4381103515625°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (26.139660325581396, -80.43815837209303)
+Coordinates 26.115991592407227°N -79.05804443359375°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (26.139660325581396, -79.08779953488371)
+Coordinates 26.115991592407227°N -77.77655029296875°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (26.139660325581396, -77.73744069767442)
+Coordinates 26.115991592407227°N -76.39651489257812°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.139660325581396, -76.38708186046512)
+Coordinates 26.115991592407227°N -75.01644897460938°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.139660325581396, -75.0367230232558)
+Coordinates 26.115991592407227°N -73.73495483398438°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.139660325581396, -73.6863641860465)
+Coordinates 26.115991592407227°N -72.35488891601562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.139660325581396, -72.3360053488372)
+Coordinates 26.115991592407227°N -70.97482299804688°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.139660325581396, -70.98564651162789)
+Coordinates 26.115991592407227°N -69.59475708007812°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.139660325581396, -69.6352876744186)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.115991592407227°N -66.93319702148438°E
+Timezone: Etc/GMT+4, Abbreviation: -04
+Data saved for 123 at (26.139660325581396, -66.93457)
+Coordinates 26.748680114746094°N -125.04425048828125°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -125.0)
+Coordinates 26.748680114746094°N -123.65045166015625°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -123.6496411627907)
+Coordinates 26.748680114746094°N -122.25663757324219°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -122.2992823255814)
+Coordinates 26.748680114746094°N -120.96240234375°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -120.94892348837209)
+Coordinates 26.748680114746094°N -119.56858825683594°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -119.59856465116279)
+Coordinates 26.748680114746094°N -118.27433776855469°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -118.24820581395349)
+Coordinates 26.748680114746094°N -116.88053894042969°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -116.89784697674419)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.748680114746094°N -114.19248962402344°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (26.720777767441863, -114.19712930232558)
+Coordinates 26.748680114746094°N -112.79867553710938°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (26.720777767441863, -112.84677046511628)
+Coordinates 26.748680114746094°N -111.50442504882812°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (26.720777767441863, -111.49641162790698)
+Coordinates 26.748680114746094°N -110.11062622070312°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (26.720777767441863, -110.14605279069767)
+Coordinates 26.748680114746094°N -108.81637573242188°E
+Timezone: America/Hermosillo, Abbreviation: MST
+Data saved for 123 at (26.720777767441863, -108.79569395348837)
+Coordinates 26.748680114746094°N -107.52212524414062°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -107.44533511627907)
+Coordinates 26.748680114746094°N -106.02876281738281°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -106.09497627906977)
+Coordinates 26.748680114746094°N -104.73452758789062°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -104.74461744186047)
+Coordinates 26.748680114746094°N -103.44027709960938°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -103.39425860465116)
+Coordinates 26.748680114746094°N -102.14602661132812°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -102.04389976744186)
+Coordinates 26.748680114746094°N -100.65264892578125°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -100.69354093023256)
+Coordinates 26.748680114746094°N -99.35842895507812°E
+Timezone: America/Matamoros, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -99.34318209302324)
+Coordinates 26.748680114746094°N -97.964599609375°E
+Timezone: America/Chicago, Abbreviation: CST
+Data saved for 123 at (26.720777767441863, -97.99282325581395)
+Coordinates 26.748680114746094°N -96.67034912109375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -96.64246441860465)
+Coordinates 26.748680114746094°N -95.27655029296875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -95.29210558139535)
+Coordinates 26.748680114746094°N -93.9822998046875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -93.94174674418605)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.748680114746094°N -91.1947021484375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -91.24102906976744)
+Coordinates 26.748680114746094°N -89.90045166015625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -89.89067023255814)
+Coordinates 26.748680114746094°N -88.50665283203125°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -88.54031139534882)
+Coordinates 26.748680114746094°N -87.21240234375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -87.18995255813954)
+Coordinates 26.748680114746094°N -85.818603515625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -85.83959372093022)
+Coordinates 26.748680114746094°N -84.52435302734375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -84.48923488372093)
+Coordinates 26.748680114746094°N -83.13055419921875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (26.720777767441863, -83.13887604651163)
+Coordinates 26.748680114746094°N -81.8363037109375°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (26.720777767441863, -81.78851720930231)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.748680114746094°N -79.04867553710938°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (26.720777767441863, -79.08779953488371)
+Coordinates 26.748680114746094°N -77.75442504882812°E
+Timezone: America/Nassau, Abbreviation: EST
+Data saved for 123 at (26.720777767441863, -77.73744069767442)
+Coordinates 26.748680114746094°N -76.36062622070312°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.720777767441863, -76.38708186046512)
+Coordinates 26.748680114746094°N -75.06637573242188°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.720777767441863, -75.0367230232558)
+Coordinates 26.748680114746094°N -73.67257690429688°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.720777767441863, -73.6863641860465)
+Coordinates 26.748680114746094°N -72.37832641601562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.720777767441863, -72.3360053488372)
+Coordinates 26.748680114746094°N -70.98452758789062°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.720777767441863, -70.98564651162789)
+Coordinates 26.748680114746094°N -69.59072875976562°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (26.720777767441863, -69.6352876744186)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 26.748680114746094°N -66.90264892578125°E
+Timezone: Etc/GMT+4, Abbreviation: -04
+Data saved for 123 at (26.720777767441863, -66.93457)
+Coordinates 27.311071395874023°N -124.95536804199219°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -125.0)
+Coordinates 27.311071395874023°N -123.64956665039062°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -123.6496411627907)
+Coordinates 27.311071395874023°N -122.34375°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -122.2992823255814)
+Coordinates 27.311071395874023°N -120.9375°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -120.94892348837209)
+Coordinates 27.311071395874023°N -119.63169860839844°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -119.59856465116279)
+Coordinates 27.311071395874023°N -118.22544860839844°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -118.24820581395349)
+Coordinates 27.311071395874023°N -116.91964721679688°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -116.89784697674419)
+Coordinates 27.311071395874023°N -115.51339721679688°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.301895209302327, -115.54748813953488)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.311071395874023°N -112.80134582519531°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (27.301895209302327, -112.84677046511628)
+Coordinates 27.311071395874023°N -111.49554443359375°E
+Timezone: Etc/GMT+7, Abbreviation: -07
+Data saved for 123 at (27.301895209302327, -111.49641162790698)
+Coordinates 27.311071395874023°N -110.18974304199219°E
+Timezone: America/Hermosillo, Abbreviation: MST
+Data saved for 123 at (27.301895209302327, -110.14605279069767)
+Coordinates 27.311071395874023°N -108.78349304199219°E
+Timezone: America/Hermosillo, Abbreviation: MST
+Data saved for 123 at (27.301895209302327, -108.79569395348837)
+API request error: {'error': True, 'reason': 'Hourly API request limit exceeded. Please try again in the next hour.'}
+Hourly rate limit exceeded, waiting for the next hour to retry.
+Waiting for 2994.28 seconds.
+API request error: {'error': True, 'reason': 'Hourly API request limit exceeded. Please try again in the next hour.'}
+Hourly rate limit exceeded, waiting for the next hour to retry.
+Waiting for 3599.51 seconds.
+Coordinates 27.311071395874023°N -104.66519165039062°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (27.301895209302327, -104.74461744186047)
+Coordinates 27.311071395874023°N -103.4598388671875°E
+Timezone: America/Matamoros, Abbreviation: CST
+Data saved for 123 at (27.301895209302327, -103.39425860465116)
+Coordinates 27.311071395874023°N -102.0535888671875°E
+Timezone: America/Matamoros, Abbreviation: CST
+Data saved for 123 at (27.301895209302327, -102.04389976744186)
+Coordinates 27.311071395874023°N -100.6473388671875°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (27.301895209302327, -100.69354093023256)
+Coordinates 27.311071395874023°N -99.34152221679688°E
+Timezone: America/Chicago, Abbreviation: CST
+Data saved for 123 at (27.301895209302327, -99.34318209302324)
+Coordinates 27.311071395874023°N -98.03573608398438°E
+Timezone: America/Chicago, Abbreviation: CST
+Data saved for 123 at (27.301895209302327, -97.99282325581395)
+Coordinates 27.311071395874023°N -96.62948608398438°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -96.64246441860465)
+Coordinates 27.311071395874023°N -95.32366943359375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -95.29210558139535)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.311071395874023°N -92.61160278320312°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -92.59138790697673)
+Coordinates 27.311071395874023°N -91.20535278320312°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -91.24102906976744)
+Coordinates 27.311071395874023°N -89.89956665039062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -89.89067023255814)
+Coordinates 27.311071395874023°N -88.49331665039062°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -88.54031139534882)
+Coordinates 27.311071395874023°N -87.1875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -87.18995255813954)
+Coordinates 27.311071395874023°N -85.8817138671875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -85.83959372093022)
+Coordinates 27.311071395874023°N -84.4754638671875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -84.48923488372093)
+Coordinates 27.311071395874023°N -83.16964721679688°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.301895209302327, -83.13887604651163)
+Coordinates 27.311071395874023°N -81.76339721679688°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (27.301895209302327, -81.78851720930231)
+Coordinates 27.311071395874023°N -80.45761108398438°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (27.301895209302327, -80.43815837209303)
+Coordinates 27.311071395874023°N -79.05136108398438°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -79.08779953488371)
+Coordinates 27.311071395874023°N -77.74554443359375°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -77.73744069767442)
+Coordinates 27.311071395874023°N -76.33929443359375°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -76.38708186046512)
+Coordinates 27.311071395874023°N -75.03347778320312°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -75.0367230232558)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.311071395874023°N -72.32144165039062°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -72.3360053488372)
+Coordinates 27.311071395874023°N -71.015625°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -70.98564651162789)
+Coordinates 27.311071395874023°N -69.609375°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -69.6352876744186)
+Coordinates 27.311071395874023°N -68.3035888671875°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.301895209302327, -68.28492883720929)
+Coordinates 27.311071395874023°N -66.8973388671875°E
+Timezone: Etc/GMT+4, Abbreviation: -04
+Data saved for 123 at (27.301895209302327, -66.93457)
+Coordinates 27.87346076965332°N -124.96621704101562°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -125.0)
+Coordinates 27.87346076965332°N -123.64865112304688°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -123.6496411627907)
+Coordinates 27.87346076965332°N -122.33108520507812°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -122.2992823255814)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.87346076965332°N -119.59458923339844°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -119.59856465116279)
+Coordinates 27.87346076965332°N -118.27702331542969°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -118.24820581395349)
+Coordinates 27.87346076965332°N -116.85810852050781°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -116.89784697674419)
+Coordinates 27.87346076965332°N -115.54054260253906°E
+Timezone: Etc/GMT+8, Abbreviation: -08
+Data saved for 123 at (27.883012651162794, -115.54748813953488)
+Coordinates 27.87346076965332°N -114.32432556152344°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (27.883012651162794, -114.19712930232558)
+Coordinates 27.87346076965332°N -112.80406188964844°E
+Timezone: America/Mazatlan, Abbreviation: MST
+Data saved for 123 at (27.883012651162794, -112.84677046511628)
+Coordinates 27.87346076965332°N -111.48649597167969°E
+Timezone: America/Hermosillo, Abbreviation: MST
+Data saved for 123 at (27.883012651162794, -111.49641162790698)
+Coordinates 27.87346076965332°N -110.06756591796875°E
+Timezone: America/Hermosillo, Abbreviation: MST
+Data saved for 123 at (27.883012651162794, -110.14605279069767)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.87346076965332°N -107.43243408203125°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -107.44533511627907)
+Coordinates 27.87346076965332°N -106.1148681640625°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -106.09497627906977)
+Coordinates 27.87346076965332°N -104.69595336914062°E
+Timezone: America/Chihuahua, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -104.74461744186047)
+Coordinates 27.87346076965332°N -103.37838745117188°E
+Timezone: America/Matamoros, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -103.39425860465116)
+Coordinates 27.87346076965332°N -102.06082153320312°E
+Timezone: America/Monterrey, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -102.04389976744186)
+Coordinates 27.87346076965332°N -100.74325561523438°E
+Timezone: America/Matamoros, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -100.69354093023256)
+Coordinates 27.87346076965332°N -99.3243408203125°E
+Timezone: America/Chicago, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -99.34318209302324)
+Coordinates 27.87346076965332°N -98.00674438476562°E
+Timezone: America/Chicago, Abbreviation: CST
+Data saved for 123 at (27.883012651162794, -97.99282325581395)
+Coordinates 27.87346076965332°N -96.68917846679688°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -96.64246441860465)
+API request error: {'reason': 'Minutely API request limit exceeded. Please try again in one minute.', 'error': True}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.87346076965332°N -93.95269775390625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -93.94174674418605)
+Coordinates 27.87346076965332°N -92.6351318359375°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -92.59138790697673)
+Coordinates 27.87346076965332°N -91.21621704101562°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -91.24102906976744)
+Coordinates 27.87346076965332°N -89.89865112304688°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -89.89067023255814)
+Coordinates 27.87346076965332°N -88.58108520507812°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -88.54031139534882)
+Coordinates 27.87346076965332°N -87.16217041015625°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -87.18995255813954)
+Coordinates 27.87346076965332°N -85.8446044921875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -85.83959372093022)
+Coordinates 27.87346076965332°N -84.52703857421875°E
+Timezone: Etc/GMT+6, Abbreviation: -06
+Data saved for 123 at (27.883012651162794, -84.48923488372093)
+API request error: {'error': True, 'reason': 'Minutely API request limit exceeded. Please try again in one minute.'}
+Minutely rate limit exceeded, waiting for 60 seconds before retrying.
+Coordinates 27.87346076965332°N -81.79055786132812°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (27.883012651162794, -81.78851720930231)
+Coordinates 27.87346076965332°N -80.5743408203125°E
+Timezone: America/New_York, Abbreviation: EST
+Data saved for 123 at (27.883012651162794, -80.43815837209303)
+Coordinates 27.87346076965332°N -79.05404663085938°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.883012651162794, -79.08779953488371)
+Coordinates 27.87346076965332°N -77.73648071289062°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.883012651162794, -77.73744069767442)
+Coordinates 27.87346076965332°N -76.41891479492188°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.883012651162794, -76.38708186046512)
+Coordinates 27.87346076965332°N -75.0°E
+Timezone: Etc/GMT+5, Abbreviation: -05
+Data saved for 123 at (27.883012651162794, -75.0367230232558)
+API request error: {'error': True, 'reason': 'Daily API request limit exceeded. Please try again tomorrow.'}
+Daily rate limit exceeded, waiting for the next day to retry.
+Waiting for 78688.26 seconds.
+API request error: {'error': True, 'reason': 'Daily API request limit exceeded. Please try again tomorrow.'}

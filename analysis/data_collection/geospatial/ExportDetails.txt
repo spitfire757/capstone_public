@@ -1,0 +1,67 @@
+------------------<UNCLASSIFIED>------------------
+
+GRiD Contact Info
+------------------------
+GRiD Support Team (Hours: Mon-Fri 0800-1600 ET)
+
+Unclass Contact Info
+Phone: 571-721-2630
+Email: grid@nga.mil
+
+SIPR Contact Info
+Phone: 484-0371
+Email: grid@nga.smil.mil
+
+JWICS Contact Info
+Phone: 811-5720
+Email: grid@coe.ic.gov
+
+NGA Contact Info
+------------------------
+Terrain Analysis Branch
+(314) 676-9146
+NIPRnet: terrain@nga.mil
+SIPRnet: terrain@nga.smil.mil
+JWICS: terrain@coe.ic.gov
+
+GRiD AOI and Export Info
+------------------------
+AOI Name: Hiddenwood Presbyterian Church
+Export Date/Time: 02 Oct 2024 17:32:10 UTC
+
+Export Spatial Reference System (SRS):
+ - Horizontal: Source H-SRS Used
+ - Vertical: Source V-SRS Used
+
+Applied Filters:
+ - Simple Morphological Bare Earth filter:
+	Terrain: urban
+Source Data Information
+------------------------
+Collect 1
+Program: USGS-3DEP
+Access Control: Public
+Collect Name: USGS_LPC_VA_Norfolk_2013_LAS_2015
+Collect Dates: 2013-03-21 - 2014-04-07
+Collect Notes: None
+
+Datatype: EPT
+Classification: UNCLASSIFIED
+Sensor: Unknown (Unknown) - Unknown
+Source SRS:
+ - Horizontal: WGS 84 / Pseudo-Mercator
+ - Vertical: None Identified
+
+Source Filename > Export Filenames > Export Filesize:
+ - USGS_LPC_VA_Norfolk_2013_LAS_2015 - EPT > U_USGS-3DEP_PC_20241002.1732_1.laz > 0.363 GB
+
+
+GRiD Software Info
+------------------------ 
+- GRiD v1.9.0
+- PDAL 2.7.2
+- GDAL 3.9.1
+
+
+Full Export Pipeline:{"pipeline": [{"filename": "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/USGS_LPC_VA_Norfolk_2013_LAS_2015/ept.json", "polygon": "POLYGON ((-76.5244033218695 37.0724475436286, -76.5237278510328 37.0455490326625, -76.4897869674044 37.0457374597469, -76.4906290170806 37.0729076858915, -76.5244033218695 37.0724475436286)) / EPSG:4326", "type": "readers.ept"}, {"polygon": "POLYGON ((-8518657.61104961 4449209.85725133,-8518582.41798002 4445457.63812958,-8514804.13609743 4445483.91821943,-8514897.87263861 4449274.05656565,-8518657.61104961 4449209.85725133))", "outside": false, "type": "filters.crop"}, {"assignment": "Classification[:]=0", "type": "filters.assign"}, {"cell": 1, "cut": 0, "scalar": 1.25, "slope": 0.05, "threshold": 0.5, "window": 50, "type": "filters.smrf"}, {"type": "filters.stats"}, {"type": "filters.hexbin", "precision": 17}, {"filename": "/u02/tmp_exports/32545/174409/110363/U_USGS-3DEP_PC_20241002.1732_1.laz", "compression": true, "minor_version": 2, "scale_x": 0.001, "scale_y": 0.001, "scale_z": 1e-05, "offset_x": "auto", "offset_y": "auto", "offset_z": "auto", "pdal_metadata": "true", "forward": "all, vlr", "type": "writers.las"}]}
+------------------<UNCLASSIFIED>------------------
