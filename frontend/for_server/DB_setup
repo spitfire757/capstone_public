@@ -1,0 +1,22 @@
+## Database setup for weather model
+
+Use cases:
+
+
+
+Entitys:
+    - Admin
+    - external_user
+    - ML-php requests/posts from anaylsis server
+
+
+Setup:
+    
+    User_ID : PK : randint(32)
+    password: FK : hashed(varchar(16))
+    FName   : FK : varchar(32)
+    LName   : FK : varchar(32)
+    Email   : FK : carchar(32) 
+    Lat     : FK : varchar(16)
+    Lon     : FK : varchar(16)s
+    Data_ID : FK : blob(64)
