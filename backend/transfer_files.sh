@@ -16,7 +16,7 @@ VAR="$4"
 # Variables
 LOCAL_DIR="main/data"  
 REMOTE_USER="ubuntu"
-REMOTE_HOST="3.87.10.171"
+REMOTE_HOST="1.1.1.1"
 REMOTE_KEY="for_server/CAPSTONE.pem"
 REMOTE_DIR="/var/www/html/user_maps"
 FILE_TO_TRANSFER="${USER_ID}_${VAR}_forecast.gif"
